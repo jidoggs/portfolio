@@ -30,7 +30,7 @@ const projects = [
       'A Travel application where a user can search for travel destination, get weather report of the said destination, travel advice about the said destinantion and others.',
     stack: ['SASS', 'JavaScript', 'React'],
     sourceCode: 'https://github.com/jidoggs/traveler',
-    livePreview: 'http://traveler-jidoggs.vercel.app/',
+    livePreview: 'https://traveler-env-jidoggs.vercel.app/',
   },
   {
     name: 'Nba Clone',
