@@ -8,7 +8,8 @@ const about = {
   role: 'Front End Engineer',
   description:
     'I love bringing Ideas to life with the help of web technologies.',
-  resume: 'https://drive.google.com/file/d/1facnIMBKcQJhZB8O2jh2JsT498H8Xf1M/view?usp=sharing',
+  // resume: 'https://drive.google.com/file/d/1ZHbpo_PXKik_HSRJFJ0GvMnFQkhhn6eI/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/1ZHbpo_PXKik_HSRJFJ0GvMnFQkhhn6eI/view?usp=sharing',
   social: {
     linkedin: 'https://linkedin.com/in/jide-shonuga',
     github: 'https://github.com/jidoggs',
