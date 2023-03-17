@@ -10,7 +10,7 @@ const about = {
     "I love bringing Ideas to life with the help of web technologies.",
   // resume: 'https://drive.google.com/file/d/1ZHbpo_PXKik_HSRJFJ0GvMnFQkhhn6eI/view?usp=sharing',
   resume:
-    "https://drive.google.com/file/d/1kzVDA5IVswPE1SUQufQ5QB8_CzT2GXIS/view?usp=sharing",
+    "https://drive.google.com/file/d/1SQMLmolnhQJXvtaFxUR_cHdD9aSoC0vV/view?usp=sharing",
   social: {
     linkedin: "https://linkedin.com/in/jide-shonuga",
     github: "https://github.com/jidoggs",
