@@ -8,9 +8,10 @@ const about = {
   role: "Front End Engineer",
   description:
     "I love bringing Ideas to life with the help of web technologies.",
-  // resume: 'https://drive.google.com/file/d/1ZHbpo_PXKik_HSRJFJ0GvMnFQkhhn6eI/view?usp=sharing',
-  resume:
-    "https://drive.google.com/file/d/1SQMLmolnhQJXvtaFxUR_cHdD9aSoC0vV/view?usp=sharing",
+
+  resume: 'https://drive.google.com/file/d/1UJTu8vgL0JeAwW3YR_s3G8RJYmT-UB6N/view?usp=drive_link',
+  // resume:
+  //   "https://drive.google.com/file/d/1SQMLmolnhQJXvtaFxUR_cHdD9aSoC0vV/view?usp=sharing",
   social: {
     linkedin: "https://linkedin.com/in/jide-shonuga",
     github: "https://github.com/jidoggs",
@@ -83,7 +84,7 @@ const skills = [
   "SASS",
   "ANTD",
   "Material UI",
-  "Git",
+  "Git","Jest"
 ];
 
 const contact = {
