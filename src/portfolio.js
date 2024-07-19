@@ -9,7 +9,8 @@ const about = {
   description:
     "I love bringing Ideas to life with the help of web technologies.",
 
-  resume: 'https://drive.google.com/file/d/1UJTu8vgL0JeAwW3YR_s3G8RJYmT-UB6N/view?usp=drive_link',
+  resume:
+    "https://drive.google.com/file/d/1UJTu8vgL0JeAwW3YR_s3G8RJYmT-UB6N/view?usp=drive_link",
   // resume:
   //   "https://drive.google.com/file/d/1SQMLmolnhQJXvtaFxUR_cHdD9aSoC0vV/view?usp=sharing",
   social: {
@@ -36,7 +37,20 @@ const projects = [
     stack: ["SASS", "Tailwind", "TypeScript", "React"],
     designLink:
       "https://www.figma.com/file/ZLn1dvei35RylzFtbQbBp3/Confam-Money-Project?type=design&node-id=1-7",
-    livePreview: "https://www.confammoney.com/",
+    livePreview: "https://confam-website.vercel.app/",
+  },
+  {
+    name: "Grant",
+    description:
+      "Nigerian government grant and loan scheme. Application had a 221,430 application per day at its peak traffic",
+    stack: ["Antd", "Tailwind", "TypeScript", "Next"],
+    livePreview: "https://grant.fedgrantandloan.gov.ng/",
+  },
+  {
+    name: "Enzzyme",
+    description: "Landing page a venture capitalist firm",
+    stack: ["Tailwind", "TypeScript", "Next"],
+    livePreview: "https://enzzyme.com/home",
   },
   {
     name: "Finswich",
@@ -84,7 +98,8 @@ const skills = [
   "SASS",
   "ANTD",
   "Material UI",
-  "Git","Jest"
+  "Git",
+  "Jest",
 ];
 
 const contact = {
